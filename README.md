@@ -1,7 +1,7 @@
 ## Gaza: radiographie d'un désastre
 letemps.ch - octobre 2014
 
-![](/http://www.letemps.ch/rw/Le_Temps/Quotidien/2014/10/03/Suisse/ImagesWeb/screen--672x359.jpg)
+![](/http://www.letemps.ch/r/Le_Temps/Quotidien/2014/10/03/Suisse/ImagesWeb/screen--672x359.jpg)
 
 Voir le projet : http://www.letemps.ch/interactive/2014/gaza-radiographie/
 
